@@ -20,7 +20,7 @@ The following data is stored:
 
    cd redditors
    
-   pip3 install -r requirements.txt -y
+   pip3 install -r requirements.txt
    
 You will need to edit the ``config.yaml`` file to fit your needs:
 
